@@ -1,0 +1,19 @@
+{
+  "type" : "record",
+  "name" : "demo_schema",
+  "namespace" : "com.comrite",
+  "fields" : [ {
+    "name" : "id",
+    "type" : "long",
+    "doc" : "Id book"
+  }, {
+    "name" : "title",
+    "type" : "string",
+    "doc" : "book title"
+  }, {
+    "name" : "author",
+    "type" : "string",
+    "doc" : "book author"
+  }],
+  "doc:" : "A basic schema for storing books"
+}

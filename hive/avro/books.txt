@@ -1,0 +1,3 @@
+{"id":1, "title":"My first book", "author":"Benjamin"}
+{"id":2, "title":"Kids love math", "author":"Alex"}
+{"id":3, "title":"Linux Howto", "author":"Angie"}
