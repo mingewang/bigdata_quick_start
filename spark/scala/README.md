@@ -1,9 +1,9 @@
 
-= How to compile
+* How to compile
 
 sbt package
 
-= how to run
+* how to run
 
 $ YOUR_SPARK_HOME/bin/spark-submit \
   --class "SimpleApp" \
